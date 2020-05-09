@@ -35,7 +35,7 @@ export const EmailRegexValidation = email => {
 
 
 // didnt quite finish the logic for making sure passwords matched on the fly
-// had a very busy work week 
+// had a very busy work week but It was definatley a pleasure to do these coding challenges.
 
 export const PasswordValidation = (password, confirmedPassword) => {
  
